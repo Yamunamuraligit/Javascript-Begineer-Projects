@@ -7,7 +7,7 @@ This project is a simple Stopwatch built with React.js that includes the followi
 Start: Begins or resumes the timer.
 
 Pause: Temporarily stops the timer without resetting the time.
-
+ 
 Stop: Ends the session and allows for reset.
 
 Reset: Clears the time and resets the stopwatch to 00:00:00.
